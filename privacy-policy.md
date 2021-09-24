@@ -109,11 +109,11 @@
 <h2>6. Children’s Privacy</h2>
 
 <p>
-    These Services do not address anyone under the age of 16. I do not knowingly collect
-    personally identifiable information from children under 16. In the case I discover that
-    a child under 16 has provided me with personal information, I immediately delete those
+    These Services do not address anyone under the age of 16. we do not knowingly collect
+    personally identifiable information from children under 16. In the case we discover that
+    a child under 16 has provided me with personal information, we immediately delete those
     informations. If you are a parent or guardian and you are aware that your child has
-    provided personal information, please contact me so that I will be able to do necessary
+    provided personal information, please contact me so that we will be able to do necessary
     actions.
 </p>
 
