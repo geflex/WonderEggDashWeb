@@ -82,8 +82,8 @@
 <p>
     Online resources:
     <ul>
-        <li>Google Terms of Service https://policies.google.com/terms</li>
-        <li>Google Privacy Policy https://policies.google.com/privacy</li>
+        <li><a href="https://policies.google.com/terms">Google Terms of Service</a></li>
+        <li><a href="https://policies.google.com/privacy">Google Privacy Policy</a></li>
     </ul>
 </p>
 
