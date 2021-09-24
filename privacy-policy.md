@@ -38,10 +38,10 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 <h1>Privacy Policy</h1>
 
-    <p>
-        Developer CG Games World built this app as an Ad Supported app. This
-        app is provided by at no cost and is intended for use as is.
-    </p>
+<p>
+    Developer CG Games World built this app as an Ad Supported app. This
+    app is provided by at no cost and is intended for use as is.
+</p>
     
     <p>
         This privacy policy is used to inform you regarding policies with the collection, use, and
